@@ -1,8 +1,8 @@
-http://www.科研论.com/post/keyanlun.html
-http://www.科研论.com/Userguide/index.html
-http://www.科研论.com/about/index.html
-http://www.科研论.com/Background/index.html
-http://www.科研论.com/categories/index.html
-http://www.科研论.com/tags/index.html
-http://www.科研论.com/link/index.html
+http://www.科研论.com/post/keyanlun
+http://www.科研论.com/Userguide/
+http://www.科研论.com/about/
+http://www.科研论.com/Background/
+http://www.科研论.com/categories/
+http://www.科研论.com/tags/
+http://www.科研论.com/link/
 http://www.科研论.com/
