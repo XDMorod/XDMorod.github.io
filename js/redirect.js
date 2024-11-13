@@ -16,7 +16,8 @@ const redirects = [
 // 检查是否需要重定向
 function shouldRedirect(url, redirect) {
     const urlObj = new URL(url);
-    return redirect.source.some(domain => urlObj.hostname === domain) && url !== redirect.target;
+    // return redirect.source.some(domain => urlObj.hostname === domain) && url !== redirect.target; ///严格和source中一样且不是target，两个条件同时满足才会重定向
+    return redirect.source.some(domain => url.includes(domain)) && url !== redirect.target; //包含source中的域名且不是target，两个条件同时满足才会重定向
 }
 
 // 执行重定向
