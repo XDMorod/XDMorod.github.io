@@ -19,10 +19,14 @@ function shouldRedirect(url, redirect) {
 }
 
 // 执行重定向
-for (const redirect of redirects) {
-    if (shouldRedirect(currentUrl, redirect)) {
-        console.log(`Redirecting from ${currentUrl} to ${redirect.target}`);
-        window.location.replace(redirect.target);
-        break;
+try {
+    for (const redirect of redirects) {
+        if (shouldRedirect(currentUrl, redirect)) {
+            console.log(`Redirecting from ${currentUrl} to ${redirect.target}`);
+            window.location.replace(redirect.target);
+            break;
+        }
     }
+} catch (error) {
+    console.error('Redirection error:', error);
 }
