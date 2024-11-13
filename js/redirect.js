@@ -42,4 +42,3 @@ try {
 } catch (error) {
     console.error('Redirection error:', error);
 }
-}
