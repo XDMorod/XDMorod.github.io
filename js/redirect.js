@@ -49,7 +49,7 @@ const currentUrl = window.location.href;
 const redirectKey = 'hasRedirected';
 
 // 检查是否已经重定向过
-if (!localStorage.getItem(redirectKey)) {
+if (!sessionStorage.getItem(redirectKey)) {
     // 定义重定向规则
     const redirects = [
         {
@@ -82,7 +82,7 @@ if (!localStorage.getItem(redirectKey)) {
         for (const redirect of redirects) {
             if (shouldRedirect(currentUrl, redirect)) {
                 console.log(`Redirecting from ${currentUrl} to ${redirect.target}`);
-                localStorage.setItem(redirectKey, 'true'); // 设置重定向标志
+                sessionStorage.setItem(redirectKey, 'true'); // 设置重定向标志
                 window.location.replace(redirect.target);
                 break;
             }
