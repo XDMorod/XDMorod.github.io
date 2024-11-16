@@ -83,6 +83,7 @@ if (!localStorage.getItem(redirectKey)) {
             if (shouldRedirect(currentUrl, redirect)) {
                 console.log(`Redirecting from ${currentUrl} to ${redirect.target}`);
                 localStorage.setItem(redirectKey, 'true'); // 设置重定向标志
+                sessionStorage.setItem(redirectKey, 'true'); // 设置会话重定向标志
                 window.location.replace(redirect.target);
                 break;
             }
