@@ -52,7 +52,7 @@ const redirects = [
     {
         source: ["www.xn--w8yz0bb74a.com", "xn--w8yz0bb74a.com", "www.keyanlun.com", "keyanlun.com"],
         target: "http://www.xn--w8yz0bb74a.com/post/keyanlun.html",
-        exclude: ["http://www.xn--w8yz0bb74a.com/link/","http://www.xn--w8yz0bb74a.com/post/keyanlun.html#content"]
+        exclude: ["http://www.xn--w8yz0bb74a.com/link/","http://www.xn--w8yz0bb74a.com/post/keyanlun.html#content","http://www.xn--w8yz0bb74a.com/post/keyanlun.html#%E7%9B%AE%E5%BD%95"]
     },
     // 可以在这里添加更多的重定向规则
     // {
