@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.科研论.com/fuxian/index.html</loc>
+    
+    <lastmod>2024-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.科研论.com/index.html</loc>
     
     <lastmod>2024-11-17</lastmod>
@@ -12,24 +21,6 @@
   
   <url>
     <loc>http://www.科研论.com/keyanlun/index.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.科研论.com/post/fuxian.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.科研论.com/post/keyanlun.html</loc>
     
     <lastmod>2024-11-17</lastmod>
     
