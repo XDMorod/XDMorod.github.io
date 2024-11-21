@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+Allow: /fuxian/
+
+
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /link/
+Disallow: /files/
+Disallow: /Background/
+
+Sitemap: http://www.keyanlun.com/sitemap.xml
+Sitemap: http://www.keyanlun.com/baidusitemap.xml
+Sitemap: http://www.xn--w8yz0bb74a.com/sitemap.xml
+Sitemap: http://www.xn--w8yz0bb74a.com/baidusitemap.xml
