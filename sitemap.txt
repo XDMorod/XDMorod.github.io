@@ -1,6 +1,5 @@
 http://www.keyanlun.com/index.html
 http://www.keyanlun.com/anli/index.html
-http://www.keyanlun.com/post/anli.html
 http://www.keyanlun.com/xiazai/index.html
 http://www.keyanlun.com/fankui/index.html
 http://www.keyanlun.com/chongxian/index.html
@@ -12,5 +11,3 @@ http://www.keyanlun.com/categories/index.html
 http://www.keyanlun.com/tags/index.html
 http://www.keyanlun.com/link/index.html
 http://www.keyanlun.com/
-http://www.keyanlun.com/tags/%E6%A1%88%E4%BE%8B%E8%B5%84%E6%BA%90/
-http://www.keyanlun.com/categories/%E6%A1%88%E4%BE%8B%E8%B5%84%E6%BA%90/
