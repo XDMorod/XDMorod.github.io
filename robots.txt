@@ -1,11 +1,11 @@
 User-agent: *
 Allow: /
-Allow: /archives/
-Allow: /tags/
-Allow: /categories/
+
 Allow: /about/
 Allow: /chongxian/
-
+Allow：/anli/
+Allow: /xiazai/
+Allow: /fankui/
 
 
 Disallow: /js/
@@ -14,6 +14,9 @@ Disallow: /lib/
 Disallow: /link/
 Disallow: /files/
 Disallow: /Background/
+Disallow: /archives/
+Disallow: /tags/
+Disallow: /categories/
 
 Sitemap: http://www.keyanlun.com/sitemap.xml
 Sitemap: http://www.keyanlun.com/baidusitemap.xml
