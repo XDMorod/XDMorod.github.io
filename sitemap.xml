@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.keyanlun.com/anli/index.html</loc>
-    
-    <lastmod>2024-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.keyanlun.com/index.html</loc>
     
-    <lastmod>2024-11-24</lastmod>
+    <lastmod>2024-11-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,7 @@
   <url>
     <loc>http://www.keyanlun.com/xiazai/index.html</loc>
     
-    <lastmod>2024-11-24</lastmod>
+    <lastmod>2024-11-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +21,15 @@
   
   <url>
     <loc>http://www.keyanlun.com/fankui/index.html</loc>
+    
+    <lastmod>2024-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.keyanlun.com/anli/index.html</loc>
     
     <lastmod>2024-11-24</lastmod>
     
@@ -112,7 +112,7 @@
 
   <url>
     <loc>http://www.keyanlun.com/</loc>
-    <lastmod>2024-11-24</lastmod>
+    <lastmod>2024-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
