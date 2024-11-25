@@ -15,6 +15,7 @@ Disallow: /Background/
 Disallow: /archives/
 Disallow: /tags/
 Disallow: /categories/
+Disallow: /Userguide/
 
 Sitemap: http://www.keyanlun.com/sitemap.xml
 Sitemap: http://www.keyanlun.com/baidusitemap.xml
