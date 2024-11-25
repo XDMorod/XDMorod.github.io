@@ -3,7 +3,7 @@ Allow: /
 
 Allow: /about/
 Allow: /chongxian/
-Allow：/anli/
+Allow: /anli/
 Allow: /xiazai/
 Allow: /fankui/
 
