@@ -6,16 +6,16 @@ Allow: /xiazai/
 Allow: /fankui/
 
 
-Disallow: /js/
-Disallow: /css/
+Disallow: /js
+Disallow: /css
 Disallow: /lib/
 Disallow: /link/
 Disallow: /files/
-Disallow: /Background/
-Disallow: /archives/
-Disallow: /tags/
-Disallow: /categories/
-Disallow: /Userguide/
+Disallow: /Background
+Disallow: /archives
+Disallow: /tags
+Disallow: /categories
+Disallow: /Userguide
 
 Sitemap: http://www.keyanlun.com/sitemap.xml
 Sitemap: http://www.keyanlun.com/baidusitemap.xml
