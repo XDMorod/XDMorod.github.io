@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Allow: /fuxian/
+Allow: /chongxian/
 Allow: /anli/
 Allow: /xiazai/
 Allow: /fankui/
