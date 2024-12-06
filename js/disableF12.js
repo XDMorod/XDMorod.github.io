@@ -1,6 +1,6 @@
 // 禁止嵌套
 if (window.top != window.self) {
-    top.location.href = "zsyyblog.com";
+    top.location.href = "keyanlun.com";
 }
 
 document.oncontextmenu = function () { return false; };
