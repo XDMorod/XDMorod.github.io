@@ -8,6 +8,12 @@ var _hmt = _hmt || [];
 })();
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CZ13735G0Q"></script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-CZ13735G0Q');
 
 // (
 //     function () {
