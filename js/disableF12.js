@@ -3,7 +3,7 @@ if (window.top != window.self) {
     top.location.href = "keyanlun.com";
 }
 
-document.oncontextmenu = function () { return false; };
+// document.oncontextmenu = function () { return false; };
 document.onselectstart = function () { return false; };
 
 window.addEventListener("keydown", function(e) {
