@@ -4,7 +4,7 @@ if (window.top != window.self) {
 }
 
 // document.oncontextmenu = function () { return false; };
-document.onselectstart = function () { return false; };
+// document.onselectstart = function () { return false; };
 
 window.addEventListener("keydown", function(e) {
     // 可以判断是不是mac，如果是mac,ctrl变为花键
