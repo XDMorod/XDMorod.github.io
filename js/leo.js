@@ -32,20 +32,20 @@ if(PublicSacrificeDay()){
 // 1213 - 南京公祭日
 
 
-// https://blog.eurkon.com/post/70e521c2.html
-function postAddToc () {
-  let postContent = document.querySelector('#post>#article-container.post-content')
-  let cardToc = document.getElementById('card-toc')
-  if (postContent && cardToc) {
-    let tocNumber = cardToc.getElementsByClassName('toc-number')
-    let tocLink = cardToc.getElementsByClassName('toc-link')
-    for (let i = 0; i < tocLink.length; i++) {
-      document.getElementById(decodeURIComponent(tocLink[i].attributes.href.value).slice(1)).dataset.toc = tocNumber[i].innerText
-    }
-  }
-}
-postAddToc ()
-// https://blog.eurkon.com/post/70e521c2.html
+// // https://blog.eurkon.com/post/70e521c2.html
+// function postAddToc () {
+//   let postContent = document.querySelector('#post>#article-container.post-content')
+//   let cardToc = document.getElementById('card-toc')
+//   if (postContent && cardToc) {
+//     let tocNumber = cardToc.getElementsByClassName('toc-number')
+//     let tocLink = cardToc.getElementsByClassName('toc-link')
+//     for (let i = 0; i < tocLink.length; i++) {
+//       document.getElementById(decodeURIComponent(tocLink[i].attributes.href.value).slice(1)).dataset.toc = tocNumber[i].innerText
+//     }
+//   }
+// }
+// postAddToc ()
+// // https://blog.eurkon.com/post/70e521c2.html
 
-//在 vue.config.js 中添加Webpack配置不同写法
+// //在 vue.config.js 中添加Webpack配置不同写法
 
